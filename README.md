@@ -22,10 +22,10 @@ This project addresses that challenge by consolidating and visualizing key busin
 
 The dashboard tracks several important metrics:
 
-Total Sales – Overall revenue generated from all products sold
-Average Sales – Average revenue generated per sale
-Number of Items Sold – Total count of items sold across categories
-Average Customer Rating – Average rating given by customers for products
+Total Sales: Overall revenue generated from all products sold
+Average Sales: Average revenue generated per sale
+Number of Items Sold: Total count of items sold across categories
+Average Customer Rating: Average rating given by customers for products
 
 📊 Analytical Focus Areas
 
@@ -33,12 +33,12 @@ The dashboard explores several key analytical dimensions:
 
 **Product Analysis**
 -Total Sales by Item Type
--Total Sales by Fat Content
--Impact of product attributes on customer ratings and revenue
++Total Sales by Fat Content
+*Impact of product attributes on customer ratings and revenue
 **Outlet Performance Analysis**
 -Sales distribution by Outlet Type
--Sales comparison by Outlet Establishment Year
--Sales segmentation by Outlet Size
++Sales comparison by Outlet Establishment Year
+*Sales segmentation by Outlet Size
 **Geographic Analysis**
 -Sales performance by Outlet Location
 **Operational Overview**
