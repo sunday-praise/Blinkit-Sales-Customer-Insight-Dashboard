@@ -45,3 +45,16 @@ The dashboard explores several key analytical dimensions:
 - **Microsoft Excel** – Data preparation and preprocessing
 - **Power Query** – Data transformation
 - **DAX (Data Analysis Expressions)** – KPI calculations and metrics
+
+### 💡 Key Value of the Project
+- **This dashboard enables decision-makers to:**
+  - Identify high-performing product categories
+  - Understand the impact of outlet characteristics on revenue
+  - Monitor customer satisfaction through ratings
+  - Evaluate sales distribution across locations
+  - Support data-driven retail strategy and operational improvements
+ 
+### 🔗 Live Dashboard
+- **Power BI Report:**
+https://app.powerbi.com/view?r=eyJrIjoiMTA3MWVjNmEtYjFmYi00YTZlLWJhNjAtYTYyZDUyMWRjMDYzIiwidCI6IjcxYjkyMjBlLTZhZDYtNDgyNi1hMWMwLWM2NjRmYmE4MDc3NiIsImMiOjN9
+
