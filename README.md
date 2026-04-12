@@ -1,3 +1,10 @@
+## Table of Contents
+
+- [Project Overview](#project-overview)
+- [Project Objectives](#project-objectives)
+- [Business Problem](#business-problem)
+
+
 # Blinkit-Sales-Customer-Insight-Dashboard
 
 📌 Project Overview
