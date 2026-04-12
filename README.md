@@ -25,6 +25,14 @@ The dashboard tracks several important metrics:
 - **Number of Items Sold:** Total count of items sold across categories
 - **Average Customer Rating:** Average rating given by customers for products
 
+## 🔗 Live Dashboard
+- **Power BI Report:**
+[Explore the dashboard](
+https://app.powerbi.com/view?r=eyJrIjoiMTA3MWVjNmEtYjFmYi00YTZlLWJhNjAtYTYyZDUyMWRjMDYzIiwidCI6IjcxYjkyMjBlLTZhZDYtNDgyNi1hMWMwLWM2NjRmYmE4MDc3NiIsImMiOjN9)
+#### preview
+<img width="1710" height="957" alt="Screenshot 2026-04-12 105251" src="https://github.com/user-attachments/assets/d03fcaa4-7c48-4b1a-b5e7-e10693ded28b" />
+
+
 ## 📊 Analytical Focus Areas
 The dashboard explores several key analytical dimensions:
 - **Product Analysis**
@@ -54,8 +62,3 @@ The dashboard explores several key analytical dimensions:
   - Evaluate sales distribution across locations
   - Support data-driven retail strategy and operational improvements
  
-## 🔗 Live Dashboard
-- **Power BI Report:**
-[Explore the dashboard](
-https://app.powerbi.com/view?r=eyJrIjoiMTA3MWVjNmEtYjFmYi00YTZlLWJhNjAtYTYyZDUyMWRjMDYzIiwidCI6IjcxYjkyMjBlLTZhZDYtNDgyNi1hMWMwLWM2NjRmYmE4MDc3NiIsImMiOjN9)
-
