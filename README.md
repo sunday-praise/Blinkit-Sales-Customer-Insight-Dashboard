@@ -7,7 +7,7 @@
 
 # Blinkit-Sales-Customer-Insight-Dashboard
 
-# 📌 Project Overview
+## 📌 Project Overview
 
 This project presents an interactive Microsoft Power BI dashboard developed to analyze Blinkit's retail performance using key operational and customer metrics. The report transforms raw sales data into meaningful visual insights that support strategic decision-making across product categories, outlet types, and geographic locations.
 
