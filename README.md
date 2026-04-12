@@ -56,5 +56,6 @@ The dashboard explores several key analytical dimensions:
  
 ### 🔗 Live Dashboard
 - **Power BI Report:**
-https://app.powerbi.com/view?r=eyJrIjoiMTA3MWVjNmEtYjFmYi00YTZlLWJhNjAtYTYyZDUyMWRjMDYzIiwidCI6IjcxYjkyMjBlLTZhZDYtNDgyNi1hMWMwLWM2NjRmYmE4MDc3NiIsImMiOjN9
+[Explore the dashboard](
+https://app.powerbi.com/view?r=eyJrIjoiMTA3MWVjNmEtYjFmYi00YTZlLWJhNjAtYTYyZDUyMWRjMDYzIiwidCI6IjcxYjkyMjBlLTZhZDYtNDgyNi1hMWMwLWM2NjRmYmE4MDc3NiIsImMiOjN9)
 
