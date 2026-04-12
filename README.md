@@ -1,4 +1,4 @@
-# Blinkit-Sales-Customer-Insight-Dashboard
+# Blinkit Sales & Customer Insight Dashboard (Power BI Analytics Project)
 
 ## 📌 Project Overview
 
